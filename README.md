@@ -62,7 +62,8 @@ This project was developed as part of a technical test for the WordPress Develop
 
 ![Random-shortcode](https://github.com/magallanesgabo/PRODU---WordPress-Application-Developer-Assessment-Test/assets/96898684/64eed2df-f6fd-4d9f-9ea7-8eafd96f110d)
 
-[My-Books-Gabriel-–-WP-Application-Developer-Assessment (1).webm](https://github.com/magallanesgabo/PRODU---WordPress-Application-Developer-Assessment-Test/assets/96898684/1b9efb04-9e62-4776-a472-999f5d83ecfe)
+![My-Books-Gabriel-–-WP-Application-Developer-Assessment-_1_](https://github.com/magallanesgabo/PRODU---WordPress-Application-Developer-Assessment-Test/assets/96898684/cf68c658-b4ad-4ba9-aeab-01d292e73c06)
+
 
 
 <h2>Part 4: Custom Widget and Hooks</h2> 
