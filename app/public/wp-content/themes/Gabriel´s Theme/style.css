@@ -413,6 +413,18 @@ hr.latest-books-2 {
 /*INDEX*/
 
 /*SINGLE AUTHORS CPT*/
+.latest-books-author {
+  padding: 15px 0px 8px;
+  margin: 0 0 -3px;
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  background: linear-gradient(90deg,#560db4 0%,#859cd8 47.4%,rgba(86,13,180,.35) 100%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
 .background-authors {
   position: absolute;
   top: 0;

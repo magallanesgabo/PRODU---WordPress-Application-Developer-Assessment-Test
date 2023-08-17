@@ -33,7 +33,7 @@ while ($query->have_posts()) : $query->the_post();
                         </div>
                     </div>        
                     <div>
-                        <h3 class="latest-books">Related Books</h3>
+                        <h3 class="latest-books-author">Related Books</h3>
                     </div>
                     <div>
                         <?php get_template_part( 'template-parts/author_books' );?> 
