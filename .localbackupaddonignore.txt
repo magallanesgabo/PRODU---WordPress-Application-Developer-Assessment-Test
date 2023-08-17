@@ -1,0 +1,28 @@
+# ___________________________________________________
+#
+# This is the default ignore file for the Local Cloud Backups add-on.
+# The format uses glob patterns, just like a .gitignore, although, this add-on
+# uses restic under the hood. Check out the restic docs for more info on ignoring files!
+#
+# https://restic.readthedocs.io/en/latest/040_backup.html#excluding-files
+#
+#
+# For more info on Local, visit
+# https://localwp.com/
+#
+#
+# For more info on the add-on or to file an issue, please visit the Github repository
+# https://github.com/getflywheel/local-addon-backups
+#
+# ___________________________________________________
+
+
+**/.git
+
+**/cache
+
+wp-content/upgrade
+
+wp-content/cache
+
+.yarn
