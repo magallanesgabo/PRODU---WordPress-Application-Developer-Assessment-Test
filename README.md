@@ -1,6 +1,11 @@
 <h2>PRODU - WordPress Application Developer Assessment Test</h2>
 This is a Custom WordPress Application evaluation project for PRODU. 😊
 
+The access credentials are:
+
+username: admin
+password: admin
+
 This project was developed as part of a technical test for the WordPress Developer position.
 
 <h2>Evaluation Requirements:</h2>
@@ -56,6 +61,8 @@ This project was developed as part of a technical test for the WordPress Develop
 ![chrome-capture-2023-7-17 (4)](https://github.com/magallanesgabo/PRODU---WordPress-Application-Developer-Assessment-Test/assets/96898684/a3e2194e-8fa6-4b17-8009-62617d896b83)
 
 ![Random-shortcode](https://github.com/magallanesgabo/PRODU---WordPress-Application-Developer-Assessment-Test/assets/96898684/64eed2df-f6fd-4d9f-9ea7-8eafd96f110d)
+
+![My-Books-Gabriel-–-WP-Application-Developer-Assessment_1](https://github.com/magallanesgabo/PRODU---WordPress-Application-Developer-Assessment-Test/assets/96898684/522d8116-68ec-47c7-ae12-7b72c89a642d)
 
 
 <h2>Part 4: Custom Widget and Hooks</h2> 
