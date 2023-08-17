@@ -1,4 +1,4 @@
-<h1>PRODU - WordPress Application Developer Assessment Test</h1>
+<h2>PRODU - WordPress Application Developer Assessment Test</h2>
 This is a Custom WordPress Application evaluation project for PRODU. 😊
 
 This project was developed as part of a technical test for the WordPress Developer position.
